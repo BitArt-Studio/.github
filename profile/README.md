@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi 👋
+BitArtStudio focuses on art with BTC.
 <!--
 
 **Here are some ideas to get you started:**
