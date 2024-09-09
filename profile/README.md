@@ -35,7 +35,7 @@ Art Fractal will continuously improve in areas such as technical security, trans
 
 #### Achieving both spiritual and economic growth for the team and individuals!
 
-ArtFractal focuses on art with BTC.
+ArtFractal focuses on art with BTC Ecosystem.
 <!--
 
 **Here are some ideas to get you started:**
