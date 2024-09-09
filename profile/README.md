@@ -13,10 +13,29 @@
 #### 作为一个技术背景的团队，能够用我们的技术参与建设这个行业和贡献力量，我们深感幸运。
 ### 这既是我们的技术观也是我们的价值观。
 
-比特艺术工作室将在技术安全，交易效率，艺术品味，及市场运营几方面不断提升，在比特币铭文(NFT)市场上占有一席之地的同时，
+艺术分型工作室将在技术安全，交易效率，艺术品味，及市场运营几方面不断提升，在比特币铭文(NFT)市场上占有一席之地的同时，
 #### 获取团队和个人的精神和经济的双重成长！
 
-BitArtStudio focuses on art with BTC.
+Art has always been a shining gem in the spiritual world of humanity. Together, science, philosophy, and art fulfill humanity’s spiritual pursuit of truth, goodness, and beauty. As the most efficient and powerful tool of the digital age, algorithms are constantly influencing and transforming people’s lives. In addition to playing a vital role in science and industry, algorithms, as an intellectual tool expressed in the form of code, also serve as a key technique in digital art.
+
+#### We believe that algorithm-generated art is the most innovative form of artistic asset in the era of digital assets, representing contemporary art in the digital age.
+### This is our artistic vision.
+
+As the most secure technological implementation of digital assets to date, Bitcoin's decentralized network has been operating stably for 15 years, with the main chain never encountering any security issues. Choosing the Bitcoin network as the storage medium for generative art makes it the most secure medium for digital art assets to date. The birth of the Ordinals protocol has made it possible to store and trade other types of digital assets on the Bitcoin mainnet. Throughout history, art has not only served as a spiritual and emotional experience but has also gradually become an investment vehicle for value preservation and appreciation, attracting many collectors and investors. Without a doubt, digital art assets based on the Bitcoin network will be one of the most promising asset classes in the future.
+
+#### In the new frontier of digital assets, art assets will undoubtedly have their place.
+### This is our financial view.
+
+The Bitcoin network utilizes technologies such as distributed storage, asymmetric encryption, Merkle trees, and proof of work to construct a decentralized financial system, perfectly addressing the core issues of security and privacy rights in the financial industry. This is not just a mere technological innovation but a new direction for society—technological finance.
+
+#### As a team with a technical background, we feel fortunate to be able to use our technology to contribute to and help build this industry.
+### This is both our technical perspective and our core value.
+
+Art Fractal will continuously improve in areas such as technical security, transaction efficiency, artistic taste, and market operations, securing a place in the Bitcoin inscription (NFT) market while
+
+#### Achieving both spiritual and economic growth for the team and individuals!
+
+ArtFractal focuses on art with BTC.
 <!--
 
 **Here are some ideas to get you started:**
