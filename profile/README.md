@@ -12,6 +12,8 @@
 
 艺术分型工作室将在技术安全，交易效率，艺术品味，及市场运营几方面不断提升，在比特币铭文(NFT)市场上占有一席之地的同时，获取团队和个人的精神和经济的双重成长！
 
+#### English Version
+
 Art has always been a shining gem in the spiritual world of humanity. Together, science, philosophy, and art fulfill humanity’s spiritual pursuit of truth, goodness, and beauty. As the most efficient and powerful tool of the digital age, algorithms are constantly influencing and transforming people’s lives. In addition to playing a vital role in science and industry, algorithms, as an intellectual tool expressed in the form of code, also serve as a key technique in digital art.
 
 #### We believe that algorithm-generated art is the most innovative form of artistic asset in the era of digital assets, representing contemporary art in the digital age.
