@@ -10,8 +10,7 @@
 比特币网络采用了分布式存储，非对称加密，默克尔树，工作量证明等技术完成了去中心化金融系统的构建工作，完美的解决了金融行业最重要的安全和权益隐私等核心问题，不仅仅是单纯的技术创新，而是给社会指出了一个新的方向，技术金融。
 #### 作为一个技术背景的团队，能够用我们的技术参与建设这个行业和贡献力量，我们深感幸运。
 
-艺术分型工作室将在技术安全，交易效率，艺术品味，及市场运营几方面不断提升，在比特币铭文(NFT)市场上占有一席之地的同时，
-#### 获取团队和个人的精神和经济的双重成长！
+艺术分型工作室将在技术安全，交易效率，艺术品味，及市场运营几方面不断提升，在比特币铭文(NFT)市场上占有一席之地的同时，获取团队和个人的精神和经济的双重成长！
 
 Art has always been a shining gem in the spiritual world of humanity. Together, science, philosophy, and art fulfill humanity’s spiritual pursuit of truth, goodness, and beauty. As the most efficient and powerful tool of the digital age, algorithms are constantly influencing and transforming people’s lives. In addition to playing a vital role in science and industry, algorithms, as an intellectual tool expressed in the form of code, also serve as a key technique in digital art.
 
